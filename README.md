@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors
+In this project, we're going to make a simple implementation of "rock paper scissors" using JavaScript that can be played using the Browser's console. I will revisiti this project later to add a UI with buttons and text to make it function like an actual game
